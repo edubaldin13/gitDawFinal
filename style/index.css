@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(217, 230, 233);
+}
+div.nav-bar {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: inline;
+    width: 20vw;
+}
+div.nav-bar li {
+    list-style-type: none;
+    display: inline;
+}
+
+div.nav-bar li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 2vw;
+    margin-left: 2vw;
+   
+
+}
+div.nav-bar img.favicon {
+    width: 3vw;
+    margin-left: 3vw;
+}
